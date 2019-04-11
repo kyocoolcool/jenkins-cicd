@@ -9,7 +9,7 @@ package test;
  **/
 
 public class Apple {
-    private String appName="Good";
+    private String appName="Good777";
 
     public Apple(String appName) {
         this.appName = appName;
