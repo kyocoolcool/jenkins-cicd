@@ -11,7 +11,7 @@
     <title>Title</title>
 </head>
 <body>
-<h2>Hello World!9999999</h2>
+<h2>Welcome Jenkins !</h2>
 <hr>
 <%=request.getRequestURI()%>
 <hr>
